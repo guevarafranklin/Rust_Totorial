@@ -1,0 +1,11 @@
+/home/fguevara/MyRepos/Rust_Totorial/test0/target/debug/deps/error_chain-c95693f1d0d77721.rmeta: /home/fguevara/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.10.0/src/lib.rs /home/fguevara/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.10.0/src/quick_error.rs /home/fguevara/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.10.0/src/error_chain.rs /home/fguevara/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.10.0/src/quick_main.rs /home/fguevara/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.10.0/src/example_generated.rs
+
+/home/fguevara/MyRepos/Rust_Totorial/test0/target/debug/deps/liberror_chain-c95693f1d0d77721.rlib: /home/fguevara/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.10.0/src/lib.rs /home/fguevara/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.10.0/src/quick_error.rs /home/fguevara/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.10.0/src/error_chain.rs /home/fguevara/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.10.0/src/quick_main.rs /home/fguevara/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.10.0/src/example_generated.rs
+
+/home/fguevara/MyRepos/Rust_Totorial/test0/target/debug/deps/error_chain-c95693f1d0d77721.d: /home/fguevara/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.10.0/src/lib.rs /home/fguevara/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.10.0/src/quick_error.rs /home/fguevara/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.10.0/src/error_chain.rs /home/fguevara/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.10.0/src/quick_main.rs /home/fguevara/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.10.0/src/example_generated.rs
+
+/home/fguevara/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.10.0/src/lib.rs:
+/home/fguevara/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.10.0/src/quick_error.rs:
+/home/fguevara/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.10.0/src/error_chain.rs:
+/home/fguevara/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.10.0/src/quick_main.rs:
+/home/fguevara/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.10.0/src/example_generated.rs:
