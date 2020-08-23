@@ -1,3 +1,5 @@
+#![allow(non_snake_case)]
+
 use rand::Rng;
 use std::cmp::Ordering;
 use std::io;
@@ -26,5 +28,6 @@ fn main() {
         Ordering::Less => println!("Too small!"),
         Ordering::Greater => println!("Too big!"),
         Ordering::Equal => println!("You win!"),
+            
     }
 }
